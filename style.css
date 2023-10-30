@@ -1,11 +1,11 @@
 a{
     color:white;
     font-weight: bold;
-    background-color: blue;
+    background-color:rgb(15, 112, 190);
     text-decoration: none;
     font-size:50px;
     margin-left:50px;
     margin-top:20px;
-    padding:4px;
-    border-radius:2px;
+    padding:8px;
+    border-radius:4px;
 }
